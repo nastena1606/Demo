@@ -16,9 +16,7 @@ The statistics includes information about calls and registrations. There are fou
 They are available as the **SIP status** widget on the **Dashboard** page. 
 
 .. image:: https://user-images.githubusercontent.com/60600800/73686237-48fe7900-46d0-11ea-823b-bb879f41896d.png
-  :width: 400
-  :alt text: SIP status
-
+  
 To measure statistics, enable the **Metrics.StorageEnabled** option on the Configuration server. The measurement frequency is 15 minutes. The date and time of the last measurements are shown at the top of the widget.
 
 The SIP status widget has both collapsed and extended views. In the **collapsed** view, only the last measured data is shown. 
