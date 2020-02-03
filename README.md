@@ -1,6 +1,6 @@
 Intro
 =====
-This is my private repository to store the documents I'm currently working on. The docs are saved in the format <doc_name>-<version>-<author>. For example, "Readme-01-AA.md"
+This is my private repository to store the documents I'm currently working on. The docs are saved in the format <doc_name>-<version>-<your_name>. For example, "Readme-01-AA.md"
 
 You can contribute to this repo by reviewing existing or adding your documents.
 
