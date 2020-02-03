@@ -26,7 +26,7 @@ The SIP status widget has both collapsed and extended views. In the **collapsed*
 
 The **extended** view also includes charts where you can see statistics for an exact timestamp during the last 24 hours. There are two charts: the left-hand one shows statistics for calls and the right-hand chart – for registrations.
 
-.. image::https://user-images.githubusercontent.com/60600800/73686327-6f241900-46d0-11ea-9bd6-b445ccc332d0.png
+.. image:: https://user-images.githubusercontent.com/60600800/73686327-6f241900-46d0-11ea-9bd6-b445ccc332d0.png
       
 
 
