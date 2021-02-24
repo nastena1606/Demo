@@ -11,4 +11,4 @@ You can contribute to this repo by reviewing existing or adding your documents.
 
 1. When you review existing docs, save a new version of the doc and add your initials to it. 
 2. When you add your own docs, save them in the format as described above.  
-3. Refer to [Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/) for style and terminology. 
+3. Refer to [Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/) for style and terminology. Aother Style guide used is [Google Style Guide] (https://developers.google.com/style/tone)
